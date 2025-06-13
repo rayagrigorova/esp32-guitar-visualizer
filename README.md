@@ -68,7 +68,24 @@
 1. Свържете китарата към звуковия интерфейс
 2. Свържете ESP32 към компютъра чрез USB
 3. Заредете Arduino sketch-a на ESP32
-4. Уверете се, че сте коригирали порта във `visualiser.py` (`PORT = 'COM4'` или съответен), както и номера на устройството (`DEVICE = 1`, трябва да отговаря на номера на аудио интерфейса). Номерът на устройтвото може да намерите с `sd.query_devices()`. 
-5. Стартирайте Python скрипта:  
+4. Уверете се, че сте коригирали порта във `visualiser.py` (`PORT = 'COM4'` или съответен), както и номера на устройството
+   (`DEVICE = 1`, трябва да отговаря на номера на аудио интерфейса). Номерът на устройството може да намерите с `sd.query_devices()`. 
+6. Стартирайте Python скрипта:  
    ```bash
    python visualiser.py
+
+## 🎥 Демонстрации
+
+### Спектър
+- [Spectrum – Metallica: Master of Puppets](https://youtube.com/shorts/BVgOfDK7fqA?feature=share)
+- [Spectrum – Metallica: Seek and Destroy](https://youtube.com/shorts/0C-Kx5vLAIw?feature=share)
+
+### Градиент
+- [Gradient – AC/DC: Thunderstruck](https://youtube.com/shorts/J8xUsHB2Iu4?feature=share)
+
+### Амбиентен
+- [Ambient – Metallica: Battery](https://youtube.com/shorts/WQJKHOdP2EA?feature=share)
+
+### Лилаво
+- [Purple – Metallica: Master of Puppets](https://youtube.com/shorts/Mqm80zsDmSU?feature=share)
+
