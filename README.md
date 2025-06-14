@@ -13,6 +13,7 @@
 
 <img src="./demo/ambient_battery.gif" alt="Ambient" width="400"/>
 <img src="./demo/gradient_thunderstruck.gif" alt="Gradient" width="400"/>
+<img src="./demo/spectrum_master_of_puppets.gif" alt="Spectrum" width="400"/>
 
 ## 🎨 Режими на визуализация
 
