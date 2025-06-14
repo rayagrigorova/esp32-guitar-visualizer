@@ -81,15 +81,15 @@
 ## 🎥 Демонстрации
 
 ### Спектър
-- [Spectrum – Metallica: Master of Puppets](https://youtube.com/shorts/BVgOfDK7fqA?feature=share)
-- [Spectrum – Metallica: Seek and Destroy](https://youtube.com/shorts/0C-Kx5vLAIw?feature=share)
+- [Spectrum – Metallica: Master of Puppets](https://youtu.be/hqEFXVSbSl0)
+- [Spectrum – Metallica: Seek and Destroy]()
 
 ### Градиент
-- [Gradient – AC/DC: Thunderstruck](https://youtube.com/shorts/J8xUsHB2Iu4?feature=share)
+- [Gradient – AC/DC: Thunderstruck](https://youtu.be/H0uX8Gejs4M)
 
 ### Амбиентен
-- [Ambient – Metallica: Battery](https://youtube.com/shorts/WQJKHOdP2EA?feature=share)
+- [Ambient – Metallica: Battery](https://youtu.be/0bITE1_vYaE)
 
 ### Лилаво
-- [Purple – Metallica: Master of Puppets](https://youtube.com/shorts/Mqm80zsDmSU?feature=share)
+- [Purple – Metallica: Master of Puppets](https://youtu.be/HkC70s5b5Wo)
 
