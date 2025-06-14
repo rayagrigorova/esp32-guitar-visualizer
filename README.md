@@ -11,9 +11,9 @@
 
 Получените стойности се изпращат към серийния порт на ESP32 под формата на 8 байта, предшествани от байт `0xFF`. ESP32 визуализира тези стойности чрез различни цветови и яркостни ефекти върху LED пръстен.
 
-<img src="./demo/spectrum_master_of_puppets.gif" alt="Spectrum" width="400"/>
-<img src="./demo/ambient_battery.gif" alt="Ambient" width="400"/>
-<img src="./demo/gradient_thunderstruck.gif" alt="Gradient" width="400"/>
+<img src="./demo/spectrum_master_of_puppets.gif" alt="Spectrum" width="300"/>
+<img src="./demo/ambient_battery.gif" alt="Ambient" width="300"/>
+<img src="./demo/gradient_thunderstruck.gif" alt="Gradient" width="300"/>
 
 ## 🎨 Режими на визуализация
 
