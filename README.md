@@ -82,7 +82,7 @@
 
 ### Спектър
 - [Spectrum – Metallica: Master of Puppets](https://youtu.be/hqEFXVSbSl0)
-- [Spectrum – Metallica: Seek and Destroy]()
+- [Spectrum – Metallica: Seek and Destroy](https://youtu.be/wOHssxyShIM)
 
 ### Градиент
 - [Gradient – AC/DC: Thunderstruck](https://youtu.be/H0uX8Gejs4M)
